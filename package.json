@@ -1,0 +1,24 @@
+{
+  "name": "random-message-test-psm",
+  "version": "1.0.0",
+  "description": "Random message Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdro-solorzano/random-message-test-psm.git"
+  },
+  "keywords": [],
+  "author": "Pedro Solorzano <pdro_solorzano@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdro-solorzano/random-message-test-psm/issues"
+  },
+  "homepage": "https://github.com/pdro-solorzano/random-message-test-psm#readme",
+  "bin": {
+    "random-message-test-psm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
