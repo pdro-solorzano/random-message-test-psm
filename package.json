@@ -1,6 +1,6 @@
 {
   "name": "random-message-test-psm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random message Test",
   "main": "index.js",
   "scripts": {
